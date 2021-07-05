@@ -12,7 +12,7 @@ ${logInButton}    id=SubmitLogin
 ${myAccountUrl}    http://automationpractice.com/index.php?controller=my-account
 ${myAccountTitle}    My account - My Store
 ${authenticationText}    Authentication
-${username}       marija@nekoj.com
+${username}       marija@nekoj.con
 ${password}       1234567890
 ${womenLink}      //*[@id="block_top_menu"]/ul/li[1]/a
 ${blouseProductLink}    //*[@id="center_column"]/ul/li[2]/div/div[1]/div/a[1]/img
